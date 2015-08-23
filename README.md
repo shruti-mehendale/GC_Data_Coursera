@@ -3,8 +3,8 @@
 This document explains the script run_analysis.R. It is a part of the
 Course Project 2 in the Coursera Getting and Cleanig data course. 
 
-## 1.Before running the code
-1.1 The follwing text files are used in this project
+## 1.Before running the code  
+1.1 The follwing text files are used in this project  
         i.activity_labels.txt  
         ii.features.txt   
         iii.subject_train.txt  
